@@ -3,4 +3,4 @@ transformers
 accelerate
 safetensors
 fastapi
-"uvicorn[standard]"
+aiohttp
